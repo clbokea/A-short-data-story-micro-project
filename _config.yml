@@ -1,4 +1,4 @@
-repository : jekyll-bootstrap/jekyll-newspaper
+repository : clbokea/A-short-data-story-micro-project
 github     : [metadata]
 
 # This is a "Newspaper" blog theme written for Jekyll users in Bootstrap v5.03
@@ -19,7 +19,8 @@ github     : [metadata]
 #
 # This is the title of your "Newspaper" for example, "The Moo York Times" :)
 
-title: Bootstrap v5.3 Blog
+title: A short data story micro project
+
 
 description: >- # this means to ignore newlines until "baseurl:"
   This is a Bootstrap "Newspaper" blog theme written for Jekyll users. It is a work in progress and I am adding more features to it. Feel free to download it and use it as a theme for your site. Any questions you have can be answered on the Discord server linked in the "Social Links" below. 
@@ -39,7 +40,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # processes in more detail to help you. If you
 # get stuck feel free to reach out.
 
-baseurl       : "A-short-data-story-micro-project"
+baseurl       : "/"
 
 # URL
 #
